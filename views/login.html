@@ -1,0 +1,29 @@
+<!--  how to use css in python_ flask-->
+<!DOCTYPE html>
+<html lang="en">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <head>  
+    <!--  Load CSS in Flask with html-->
+        <link rel="stylesheet" href='/static_files/main.css' />
+    <!--  Load JavaScript in Flask with html-->
+  </head>
+  <body>
+    <div class="logo"></div>
+    <div class="login-block">
+      <form action="login" method="post">
+        <h1>Login</h1>
+        <input type="text" value="" placeholder="user@gmail.com" name="username" id="username" />
+        <input type="password" value="" placeholder="password" name="password" id="password" />
+        <select name="rol" id="rol">
+          <option value="Administrador">Administrador</option>
+          <option value="Operativo">Operativo</option>
+          <option value="General">General</option>
+        </select>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </body>
+</html>
+
+
+  
