@@ -1,6 +1,6 @@
-##Integrative Project Activity 8 _UVM_
+## Integrative Project  _UVM_
 
-##Stage 1
+## Stage 1
 
 This activity involves applying the knowledge acquired throughout the course and revisiting what was learned in previous subjects to integrate different disciplines. Additionally, it references previously developed activities to ensure the cross-curricular nature of the reviewed content, thus strengthening the development of competencies.
 
